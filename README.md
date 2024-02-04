@@ -2,7 +2,7 @@
 
 ## Information
 
-:computer: Aspiring Data Analyst / Data Scientist, in Seoul KR </br>
+:computer: Data Analyst / Data Scientist, in Seoul KR </br>
 :writing_hand: I publish my analysis on [Medium](https://medium.com/@cyrilc7)</br>
 :heart: I have many interests : Food & Wine, Games, Nature, Sports, Music, and more!</br>
 :mortar_board: Degree in Business Administration and Economics</br>
